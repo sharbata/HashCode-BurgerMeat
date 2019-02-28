@@ -1,2 +1,2 @@
 # HashCode-BurgerMeat
-Solution to Google Hashcode 2019
+We are team BurgerMeat. This is our solution to Google Hashcode 2019
